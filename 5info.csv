@@ -1,0 +1,8 @@
+id+last_name+first_name+message+validity
+1+Fix+John+the ship is delayed+lie
+2+Smith+Jeb+the repair is finished+truth
+3+Fix+John+the ship is sailing+truth
+4+Fix+John+the rudder is broken+lie
+5+Smith+Jeb+the captain is ill+truth
+6+Fix+John+sun is going down+lie
+7+Smith+Jeb+departure is delayed+truth
