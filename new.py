@@ -128,3 +128,11 @@ print(lst)
 
 with open('res.json', 'w') as cat_file:
     json.dump(lst, cat_file)
+
+
+
+MIG
+YKGMIGFCQIACWMDERDMIGR
+CXATHLOMIGCX
+YWMIGIS
+CSVVXQWOQOLHDKNOFYPRB
